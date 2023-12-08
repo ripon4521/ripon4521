@@ -46,10 +46,10 @@
 
 <br />
 
-
 ### 🌱 I’m exploring - Advanced NextJs, Redux, VueJs, Angular. 
 ### 👯 I’m looking - To collaborate on open-source projects. 
 ### 🤔 I’m trying - To help people learn web development. 
+
 
 
 
