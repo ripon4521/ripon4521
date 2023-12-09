@@ -42,7 +42,7 @@
 ## :mailbox: Reach me out
 <br />
 
-[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/md-ripon-akondo-5b913421b/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/re.k.739)[ </p>](_)
+[<p align="center"><img height="75" src="https://i.ibb.co/RbpDFwn/Linkedin.png">](https://www.linkedin.com/in/md-ripon-akondo-5b913421b/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/re.k.739)[ </p>](_)
 
 <br />
 
