@@ -19,7 +19,8 @@
 
 <h4 align="left">I'm a passionate web engineer, developer, and AI enthusiast specializing in MERN stack development.</h4>
 
-- 🔭 I’m working on a **MERN-based AI-powered job recruitment and skill-matching platform**  
+- 🔭 I’m working on a **MERN-based AI-powered job recruitment and skill-matching platform**
+- - 🔫 Developed an **AI-powered crime report analysis web application** at **NSU Hackathon** 
 - 🎓 I’m a **CSE student** at Govt. Graphics Arts Institute, Dhaka  
 - 🏆 I’m participating in the **NEOFETCH Hackathon 2025**  
 - 🚀 I love **building AI-powered web applications** and **custom AI models for Bangladesh-specific data**  
