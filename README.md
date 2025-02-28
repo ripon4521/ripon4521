@@ -48,9 +48,7 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
   <img width="15" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="15" />
@@ -78,10 +76,10 @@
 
 
 <div align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mizanmahi&theme=dark" height="163em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mizanmahi&theme=dark" height="163em" /> 
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ripon4521&theme=dark" height="163em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ripon4521&theme=dark" height="163em" /> 
   <br>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mizanmahi&theme=dark" height="160em" /> 
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ripon4521&theme=dark" height="160em" /> 
   <br>
 <!--   <img src="https://streak-stats.demolab.com?user=mizanmahi&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=0&order=3" height="161em" /> -->
 </div>
