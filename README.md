@@ -73,7 +73,7 @@
   <img width="15" />
   <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/clerk-uvna1mxd54k50cohb8o2i.png/clerk-nzr7956knokwjx841f6yye.png?_a=DAJFJtWIZAAC" height="40" alt="git logo"  />
   <img width="15" />
-  <img src="https://e7.pngegg.com/pngimages/777/788/png-clipart-logo-cpanel-brand-graphics-computer-icons-cp-logo-emblem-text.png" height="40" alt="git logo"  />
+  <img src="https://www.liblogo.com/img-logo/cp4920cd4d-cpanel-logo-cpanel-logo-png-transparent-amp-svg-vector-freebie-supply.png" height="40" alt="git logo"  />
 </div>
 
 ###
